@@ -1,4 +1,4 @@
-# What-and-Where-are-the-oldest-businesses-in-the-world
+# What and Where are the World's Oldest Businesses
 Python project
 
 Use joining techniques to discover the oldest businesses in the world.
